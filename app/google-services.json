@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25363586168",
+    "firebase_url": "https://admin-bb5ff.firebaseio.com",
+    "project_id": "admin-bb5ff",
+    "storage_bucket": "admin-bb5ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25363586168:android:f0ff17ce406a0f6c",
+        "android_client_info": {
+          "package_name": "com.bnb.binh.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25363586168-m3iu4d29ls1gts4mmadlimgqaqmeujhd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bnb.binh.admin",
+            "certificate_hash": "4c7be03b50906c7bac786fd871c14fe064e9fc58"
+          }
+        },
+        {
+          "client_id": "25363586168-bo3fbgdk837662e49l9acn6ritml9bci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdNqFm5kbFgXIGcsluXZLeZwyZ_34Qrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25363586168-bo3fbgdk837662e49l9acn6ritml9bci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
